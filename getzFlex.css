@@ -1,0 +1,22 @@
+/***ALL RIGHTS RESERVED BY MONROE GETZ ***/
+
+html,
+body,
+.App,
+#root {
+  height: 100%;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex.column {
+  flex-direction: column;
+}
+
+.flex.row {
+  justify-content: space-around;
+}
