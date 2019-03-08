@@ -11,6 +11,9 @@ body,
   display: flex;
   justify-content: center;
   align-items: center;
+  background: blueviolet;
+  color: white;
+  font-family: cursive;
 }
 
 .flex.column {
