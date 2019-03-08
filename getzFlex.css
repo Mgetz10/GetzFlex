@@ -16,6 +16,11 @@ body,
   font-family: cursive;
 }
 
+.flex:hover {
+  background: white;
+  content: 'All content belongs to Monroe Getz. Welcome to GetzBox box. Flex till death. Happy friday virus, I love you';
+}
+
 .flex.column {
   flex-direction: column;
 }
