@@ -17,7 +17,9 @@ body,
 }
 
 .flex:hover {
-  background: white;
+  background: black;
+  color: green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   content: 'All content belongs to Monroe Getz. Welcome to GetzBox box. Flex till death. Happy friday virus, I love you';
 }
 
